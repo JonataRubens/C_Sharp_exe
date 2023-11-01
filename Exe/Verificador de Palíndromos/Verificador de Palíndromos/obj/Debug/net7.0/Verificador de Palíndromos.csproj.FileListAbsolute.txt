@@ -1,0 +1,14 @@
+D:\Projects C#\Projects C#\Verificador de Palíndromos\Verificador de Palíndromos\bin\Debug\net7.0\Verificador de Palíndromos.exe
+D:\Projects C#\Projects C#\Verificador de Palíndromos\Verificador de Palíndromos\bin\Debug\net7.0\Verificador de Palíndromos.deps.json
+D:\Projects C#\Projects C#\Verificador de Palíndromos\Verificador de Palíndromos\bin\Debug\net7.0\Verificador de Palíndromos.runtimeconfig.json
+D:\Projects C#\Projects C#\Verificador de Palíndromos\Verificador de Palíndromos\bin\Debug\net7.0\Verificador de Palíndromos.dll
+D:\Projects C#\Projects C#\Verificador de Palíndromos\Verificador de Palíndromos\bin\Debug\net7.0\Verificador de Palíndromos.pdb
+D:\Projects C#\Projects C#\Verificador de Palíndromos\Verificador de Palíndromos\obj\Debug\net7.0\Verificador de Palíndromos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects C#\Projects C#\Verificador de Palíndromos\Verificador de Palíndromos\obj\Debug\net7.0\Verificador de Palíndromos.AssemblyInfoInputs.cache
+D:\Projects C#\Projects C#\Verificador de Palíndromos\Verificador de Palíndromos\obj\Debug\net7.0\Verificador de Palíndromos.AssemblyInfo.cs
+D:\Projects C#\Projects C#\Verificador de Palíndromos\Verificador de Palíndromos\obj\Debug\net7.0\Verificador de Palíndromos.csproj.CoreCompileInputs.cache
+D:\Projects C#\Projects C#\Verificador de Palíndromos\Verificador de Palíndromos\obj\Debug\net7.0\Verificador de Palíndromos.dll
+D:\Projects C#\Projects C#\Verificador de Palíndromos\Verificador de Palíndromos\obj\Debug\net7.0\refint\Verificador de Palíndromos.dll
+D:\Projects C#\Projects C#\Verificador de Palíndromos\Verificador de Palíndromos\obj\Debug\net7.0\Verificador de Palíndromos.pdb
+D:\Projects C#\Projects C#\Verificador de Palíndromos\Verificador de Palíndromos\obj\Debug\net7.0\Verificador de Palíndromos.genruntimeconfig.cache
+D:\Projects C#\Projects C#\Verificador de Palíndromos\Verificador de Palíndromos\obj\Debug\net7.0\ref\Verificador de Palíndromos.dll
