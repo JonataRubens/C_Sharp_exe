@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects C#\\Projects C#\\Verificador de Palíndromos\\Verificador de Palíndromos\\Verificador de Palíndromos.csproj",
+      "projectUniqueName": "D:\\VS\\C#\\C_Sharp\\Exe\\Verificador de Palíndromos\\Verificador de Palíndromos\\Verificador de Palíndromos.csproj",
       "projectName": "Verificador de Palíndromos",
-      "projectPath": "D:\\Projects C#\\Projects C#\\Verificador de Palíndromos\\Verificador de Palíndromos\\Verificador de Palíndromos.csproj",
+      "projectPath": "D:\\VS\\C#\\C_Sharp\\Exe\\Verificador de Palíndromos\\Verificador de Palíndromos\\Verificador de Palíndromos.csproj",
       "packagesPath": "C:\\Users\\WEB\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects C#\\Projects C#\\Verificador de Palíndromos\\Verificador de Palíndromos\\obj\\",
+      "outputPath": "D:\\VS\\C#\\C_Sharp\\Exe\\Verificador de Palíndromos\\Verificador de Palíndromos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

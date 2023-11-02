@@ -1,0 +1,14 @@
+D:\VS\C#\C_Sharp\Exe\Soma dos Números Pares\Soma dos Números Pares\bin\Debug\net7.0\Soma dos Números Pares.exe
+D:\VS\C#\C_Sharp\Exe\Soma dos Números Pares\Soma dos Números Pares\bin\Debug\net7.0\Soma dos Números Pares.deps.json
+D:\VS\C#\C_Sharp\Exe\Soma dos Números Pares\Soma dos Números Pares\bin\Debug\net7.0\Soma dos Números Pares.runtimeconfig.json
+D:\VS\C#\C_Sharp\Exe\Soma dos Números Pares\Soma dos Números Pares\bin\Debug\net7.0\Soma dos Números Pares.dll
+D:\VS\C#\C_Sharp\Exe\Soma dos Números Pares\Soma dos Números Pares\bin\Debug\net7.0\Soma dos Números Pares.pdb
+D:\VS\C#\C_Sharp\Exe\Soma dos Números Pares\Soma dos Números Pares\obj\Debug\net7.0\Soma dos Números Pares.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\C#\C_Sharp\Exe\Soma dos Números Pares\Soma dos Números Pares\obj\Debug\net7.0\Soma dos Números Pares.AssemblyInfoInputs.cache
+D:\VS\C#\C_Sharp\Exe\Soma dos Números Pares\Soma dos Números Pares\obj\Debug\net7.0\Soma dos Números Pares.AssemblyInfo.cs
+D:\VS\C#\C_Sharp\Exe\Soma dos Números Pares\Soma dos Números Pares\obj\Debug\net7.0\Soma dos Números Pares.csproj.CoreCompileInputs.cache
+D:\VS\C#\C_Sharp\Exe\Soma dos Números Pares\Soma dos Números Pares\obj\Debug\net7.0\Soma dos Números Pares.dll
+D:\VS\C#\C_Sharp\Exe\Soma dos Números Pares\Soma dos Números Pares\obj\Debug\net7.0\refint\Soma dos Números Pares.dll
+D:\VS\C#\C_Sharp\Exe\Soma dos Números Pares\Soma dos Números Pares\obj\Debug\net7.0\Soma dos Números Pares.pdb
+D:\VS\C#\C_Sharp\Exe\Soma dos Números Pares\Soma dos Números Pares\obj\Debug\net7.0\Soma dos Números Pares.genruntimeconfig.cache
+D:\VS\C#\C_Sharp\Exe\Soma dos Números Pares\Soma dos Números Pares\obj\Debug\net7.0\ref\Soma dos Números Pares.dll
