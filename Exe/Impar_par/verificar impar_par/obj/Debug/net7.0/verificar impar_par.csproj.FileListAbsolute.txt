@@ -1,0 +1,14 @@
+F:\VisualStudio\Impar_par\verificar impar_par\bin\Debug\net7.0\verificar impar_par.exe
+F:\VisualStudio\Impar_par\verificar impar_par\bin\Debug\net7.0\verificar impar_par.deps.json
+F:\VisualStudio\Impar_par\verificar impar_par\bin\Debug\net7.0\verificar impar_par.runtimeconfig.json
+F:\VisualStudio\Impar_par\verificar impar_par\bin\Debug\net7.0\verificar impar_par.dll
+F:\VisualStudio\Impar_par\verificar impar_par\bin\Debug\net7.0\verificar impar_par.pdb
+F:\VisualStudio\Impar_par\verificar impar_par\obj\Debug\net7.0\verificar impar_par.GeneratedMSBuildEditorConfig.editorconfig
+F:\VisualStudio\Impar_par\verificar impar_par\obj\Debug\net7.0\verificar impar_par.AssemblyInfoInputs.cache
+F:\VisualStudio\Impar_par\verificar impar_par\obj\Debug\net7.0\verificar impar_par.AssemblyInfo.cs
+F:\VisualStudio\Impar_par\verificar impar_par\obj\Debug\net7.0\verificar impar_par.csproj.CoreCompileInputs.cache
+F:\VisualStudio\Impar_par\verificar impar_par\obj\Debug\net7.0\verificar impar_par.dll
+F:\VisualStudio\Impar_par\verificar impar_par\obj\Debug\net7.0\refint\verificar impar_par.dll
+F:\VisualStudio\Impar_par\verificar impar_par\obj\Debug\net7.0\verificar impar_par.pdb
+F:\VisualStudio\Impar_par\verificar impar_par\obj\Debug\net7.0\verificar impar_par.genruntimeconfig.cache
+F:\VisualStudio\Impar_par\verificar impar_par\obj\Debug\net7.0\ref\verificar impar_par.dll

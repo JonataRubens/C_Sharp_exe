@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VS\\C#\\C_Sharp\\Exe\\Soma dos Números Pares\\Soma dos Números Pares\\Soma dos Números Pares.csproj": {}
+    "F:\\Repo_GitHub\\C_Sharp_exe\\Exe\\Soma dos Números Pares\\Soma dos Números Pares.csproj": {}
   },
   "projects": {
-    "D:\\VS\\C#\\C_Sharp\\Exe\\Soma dos Números Pares\\Soma dos Números Pares\\Soma dos Números Pares.csproj": {
+    "F:\\Repo_GitHub\\C_Sharp_exe\\Exe\\Soma dos Números Pares\\Soma dos Números Pares.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VS\\C#\\C_Sharp\\Exe\\Soma dos Números Pares\\Soma dos Números Pares\\Soma dos Números Pares.csproj",
+        "projectUniqueName": "F:\\Repo_GitHub\\C_Sharp_exe\\Exe\\Soma dos Números Pares\\Soma dos Números Pares.csproj",
         "projectName": "Soma dos Números Pares",
-        "projectPath": "D:\\VS\\C#\\C_Sharp\\Exe\\Soma dos Números Pares\\Soma dos Números Pares\\Soma dos Números Pares.csproj",
+        "projectPath": "F:\\Repo_GitHub\\C_Sharp_exe\\Exe\\Soma dos Números Pares\\Soma dos Números Pares.csproj",
         "packagesPath": "C:\\Users\\WEB\\.nuget\\packages\\",
-        "outputPath": "D:\\VS\\C#\\C_Sharp\\Exe\\Soma dos Números Pares\\Soma dos Números Pares\\obj\\",
+        "outputPath": "F:\\Repo_GitHub\\C_Sharp_exe\\Exe\\Soma dos Números Pares\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
