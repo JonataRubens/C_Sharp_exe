@@ -1,0 +1,14 @@
+F:\Repo_GitHub\C_Sharp_exe\Exe\adivinhar o número\bin\Debug\net7.0\adivinhar o número.exe
+F:\Repo_GitHub\C_Sharp_exe\Exe\adivinhar o número\bin\Debug\net7.0\adivinhar o número.deps.json
+F:\Repo_GitHub\C_Sharp_exe\Exe\adivinhar o número\bin\Debug\net7.0\adivinhar o número.runtimeconfig.json
+F:\Repo_GitHub\C_Sharp_exe\Exe\adivinhar o número\bin\Debug\net7.0\adivinhar o número.dll
+F:\Repo_GitHub\C_Sharp_exe\Exe\adivinhar o número\bin\Debug\net7.0\adivinhar o número.pdb
+F:\Repo_GitHub\C_Sharp_exe\Exe\adivinhar o número\obj\Debug\net7.0\adivinhar o número.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repo_GitHub\C_Sharp_exe\Exe\adivinhar o número\obj\Debug\net7.0\adivinhar o número.AssemblyInfoInputs.cache
+F:\Repo_GitHub\C_Sharp_exe\Exe\adivinhar o número\obj\Debug\net7.0\adivinhar o número.AssemblyInfo.cs
+F:\Repo_GitHub\C_Sharp_exe\Exe\adivinhar o número\obj\Debug\net7.0\adivinhar o número.csproj.CoreCompileInputs.cache
+F:\Repo_GitHub\C_Sharp_exe\Exe\adivinhar o número\obj\Debug\net7.0\adivinhar o número.dll
+F:\Repo_GitHub\C_Sharp_exe\Exe\adivinhar o número\obj\Debug\net7.0\refint\adivinhar o número.dll
+F:\Repo_GitHub\C_Sharp_exe\Exe\adivinhar o número\obj\Debug\net7.0\adivinhar o número.pdb
+F:\Repo_GitHub\C_Sharp_exe\Exe\adivinhar o número\obj\Debug\net7.0\adivinhar o número.genruntimeconfig.cache
+F:\Repo_GitHub\C_Sharp_exe\Exe\adivinhar o número\obj\Debug\net7.0\ref\adivinhar o número.dll
