@@ -1,0 +1,14 @@
+F:\Repo_GitHub\C_Sharp_exe\Exe\frequência de cada palavra\bin\Debug\net7.0\frequência de cada palavra.exe
+F:\Repo_GitHub\C_Sharp_exe\Exe\frequência de cada palavra\bin\Debug\net7.0\frequência de cada palavra.deps.json
+F:\Repo_GitHub\C_Sharp_exe\Exe\frequência de cada palavra\bin\Debug\net7.0\frequência de cada palavra.runtimeconfig.json
+F:\Repo_GitHub\C_Sharp_exe\Exe\frequência de cada palavra\bin\Debug\net7.0\frequência de cada palavra.dll
+F:\Repo_GitHub\C_Sharp_exe\Exe\frequência de cada palavra\bin\Debug\net7.0\frequência de cada palavra.pdb
+F:\Repo_GitHub\C_Sharp_exe\Exe\frequência de cada palavra\obj\Debug\net7.0\frequência de cada palavra.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repo_GitHub\C_Sharp_exe\Exe\frequência de cada palavra\obj\Debug\net7.0\frequência de cada palavra.AssemblyInfoInputs.cache
+F:\Repo_GitHub\C_Sharp_exe\Exe\frequência de cada palavra\obj\Debug\net7.0\frequência de cada palavra.AssemblyInfo.cs
+F:\Repo_GitHub\C_Sharp_exe\Exe\frequência de cada palavra\obj\Debug\net7.0\frequência de cada palavra.csproj.CoreCompileInputs.cache
+F:\Repo_GitHub\C_Sharp_exe\Exe\frequência de cada palavra\obj\Debug\net7.0\frequência de cada palavra.dll
+F:\Repo_GitHub\C_Sharp_exe\Exe\frequência de cada palavra\obj\Debug\net7.0\refint\frequência de cada palavra.dll
+F:\Repo_GitHub\C_Sharp_exe\Exe\frequência de cada palavra\obj\Debug\net7.0\frequência de cada palavra.pdb
+F:\Repo_GitHub\C_Sharp_exe\Exe\frequência de cada palavra\obj\Debug\net7.0\frequência de cada palavra.genruntimeconfig.cache
+F:\Repo_GitHub\C_Sharp_exe\Exe\frequência de cada palavra\obj\Debug\net7.0\ref\frequência de cada palavra.dll
