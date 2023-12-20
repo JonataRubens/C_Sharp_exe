@@ -1,0 +1,14 @@
+F:\Repo_GitHub\C_Sharp_exe\Exe\inverter palavras\bin\Debug\net7.0\inverter palavras.exe
+F:\Repo_GitHub\C_Sharp_exe\Exe\inverter palavras\bin\Debug\net7.0\inverter palavras.deps.json
+F:\Repo_GitHub\C_Sharp_exe\Exe\inverter palavras\bin\Debug\net7.0\inverter palavras.runtimeconfig.json
+F:\Repo_GitHub\C_Sharp_exe\Exe\inverter palavras\bin\Debug\net7.0\inverter palavras.dll
+F:\Repo_GitHub\C_Sharp_exe\Exe\inverter palavras\bin\Debug\net7.0\inverter palavras.pdb
+F:\Repo_GitHub\C_Sharp_exe\Exe\inverter palavras\obj\Debug\net7.0\inverter palavras.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repo_GitHub\C_Sharp_exe\Exe\inverter palavras\obj\Debug\net7.0\inverter palavras.AssemblyInfoInputs.cache
+F:\Repo_GitHub\C_Sharp_exe\Exe\inverter palavras\obj\Debug\net7.0\inverter palavras.AssemblyInfo.cs
+F:\Repo_GitHub\C_Sharp_exe\Exe\inverter palavras\obj\Debug\net7.0\inverter palavras.csproj.CoreCompileInputs.cache
+F:\Repo_GitHub\C_Sharp_exe\Exe\inverter palavras\obj\Debug\net7.0\inverter palavras.dll
+F:\Repo_GitHub\C_Sharp_exe\Exe\inverter palavras\obj\Debug\net7.0\refint\inverter palavras.dll
+F:\Repo_GitHub\C_Sharp_exe\Exe\inverter palavras\obj\Debug\net7.0\inverter palavras.pdb
+F:\Repo_GitHub\C_Sharp_exe\Exe\inverter palavras\obj\Debug\net7.0\inverter palavras.genruntimeconfig.cache
+F:\Repo_GitHub\C_Sharp_exe\Exe\inverter palavras\obj\Debug\net7.0\ref\inverter palavras.dll
