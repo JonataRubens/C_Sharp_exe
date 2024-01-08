@@ -1,0 +1,14 @@
+F:\Repo_GitHub\C_Sharp_exe\Exe\testes\bin\Debug\net7.0\testes.exe
+F:\Repo_GitHub\C_Sharp_exe\Exe\testes\bin\Debug\net7.0\testes.deps.json
+F:\Repo_GitHub\C_Sharp_exe\Exe\testes\bin\Debug\net7.0\testes.runtimeconfig.json
+F:\Repo_GitHub\C_Sharp_exe\Exe\testes\bin\Debug\net7.0\testes.dll
+F:\Repo_GitHub\C_Sharp_exe\Exe\testes\bin\Debug\net7.0\testes.pdb
+F:\Repo_GitHub\C_Sharp_exe\Exe\testes\obj\Debug\net7.0\testes.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repo_GitHub\C_Sharp_exe\Exe\testes\obj\Debug\net7.0\testes.AssemblyInfoInputs.cache
+F:\Repo_GitHub\C_Sharp_exe\Exe\testes\obj\Debug\net7.0\testes.AssemblyInfo.cs
+F:\Repo_GitHub\C_Sharp_exe\Exe\testes\obj\Debug\net7.0\testes.csproj.CoreCompileInputs.cache
+F:\Repo_GitHub\C_Sharp_exe\Exe\testes\obj\Debug\net7.0\testes.dll
+F:\Repo_GitHub\C_Sharp_exe\Exe\testes\obj\Debug\net7.0\refint\testes.dll
+F:\Repo_GitHub\C_Sharp_exe\Exe\testes\obj\Debug\net7.0\testes.pdb
+F:\Repo_GitHub\C_Sharp_exe\Exe\testes\obj\Debug\net7.0\testes.genruntimeconfig.cache
+F:\Repo_GitHub\C_Sharp_exe\Exe\testes\obj\Debug\net7.0\ref\testes.dll
