@@ -1,0 +1,16 @@
+F:\Repo_GitHub\C_Sharp_exe\Exe\jogoDaVelha\bin\Debug\net7.0-windows\jogoDaVelha.exe
+F:\Repo_GitHub\C_Sharp_exe\Exe\jogoDaVelha\bin\Debug\net7.0-windows\jogoDaVelha.deps.json
+F:\Repo_GitHub\C_Sharp_exe\Exe\jogoDaVelha\bin\Debug\net7.0-windows\jogoDaVelha.runtimeconfig.json
+F:\Repo_GitHub\C_Sharp_exe\Exe\jogoDaVelha\bin\Debug\net7.0-windows\jogoDaVelha.dll
+F:\Repo_GitHub\C_Sharp_exe\Exe\jogoDaVelha\bin\Debug\net7.0-windows\jogoDaVelha.pdb
+F:\Repo_GitHub\C_Sharp_exe\Exe\jogoDaVelha\obj\Debug\net7.0-windows\jogoDaVelha.Form1.resources
+F:\Repo_GitHub\C_Sharp_exe\Exe\jogoDaVelha\obj\Debug\net7.0-windows\jogoDaVelha.csproj.GenerateResource.cache
+F:\Repo_GitHub\C_Sharp_exe\Exe\jogoDaVelha\obj\Debug\net7.0-windows\jogoDaVelha.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repo_GitHub\C_Sharp_exe\Exe\jogoDaVelha\obj\Debug\net7.0-windows\jogoDaVelha.AssemblyInfoInputs.cache
+F:\Repo_GitHub\C_Sharp_exe\Exe\jogoDaVelha\obj\Debug\net7.0-windows\jogoDaVelha.AssemblyInfo.cs
+F:\Repo_GitHub\C_Sharp_exe\Exe\jogoDaVelha\obj\Debug\net7.0-windows\jogoDaVelha.csproj.CoreCompileInputs.cache
+F:\Repo_GitHub\C_Sharp_exe\Exe\jogoDaVelha\obj\Debug\net7.0-windows\jogoDaVelha.dll
+F:\Repo_GitHub\C_Sharp_exe\Exe\jogoDaVelha\obj\Debug\net7.0-windows\refint\jogoDaVelha.dll
+F:\Repo_GitHub\C_Sharp_exe\Exe\jogoDaVelha\obj\Debug\net7.0-windows\jogoDaVelha.pdb
+F:\Repo_GitHub\C_Sharp_exe\Exe\jogoDaVelha\obj\Debug\net7.0-windows\jogoDaVelha.genruntimeconfig.cache
+F:\Repo_GitHub\C_Sharp_exe\Exe\jogoDaVelha\obj\Debug\net7.0-windows\ref\jogoDaVelha.dll
